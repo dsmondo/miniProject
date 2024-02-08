@@ -13,23 +13,25 @@ Utilizing the dashboard, users can identify price variance by region and time, c
 # Main development tools 
 - Programming Languages : Python (ver. 3.12)   
 - Web Framework : Streamlit (ver. 1.31.0)
+- Libraries : Pandas (ver. 2.1.4), Plotly (ver. 5.18.0)
 
 # Main Library version
 - Please refer to requirements.txt
 
 # Demo pages
 - Our Demo pages implemented using Streamlit are as follows.    
-[https://app-api-qkxzk2zdlacnuwxcqwxyyq.streamlit.app/](https://miniproject-6u34amovghmshpzxbxbxvq.streamlit.app/)
+[https://dsmondo-miniproject-1-market-overview-d4zvo4.streamlit.app/](https://dsmondo-miniproject-1-market-overview-d4zvo4.streamlit.app/)
 
 ## Main Functions   
 - Main functions developed & utilized in this project are as follows.
   - market_summary.py
-    - main() : for deploy, contains filtering data & visualization in each menu, tab and column.
-    - load_data() : for loading data from local directory        
+    - main() : for deployment & contains main codes for filtering data and visualization in each menu, tab and column.
+    - load_data1() : for loading sales data from local directory
+    - load_data2() : for loading rent data         
 
 # Presentation PDF
 - Our presentation pdf link is as follows.   
-[](portfoilo.pdf)
+[Seoul_RealEstate_Insights.pdf](Seoul_RealEstate_Insights.pdf)
 
 # License
 - [LICENSE](LICENSE)
