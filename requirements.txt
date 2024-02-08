@@ -1,0 +1,12 @@
+numpy
+pandas
+streamlit
+plotly
+matplotlib
+geopandas
+folium
+streamlit-option-menu
+jupyterlab
+contextily
+python-dotenv
+streamlit_folium
