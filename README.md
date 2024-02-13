@@ -24,7 +24,7 @@ Utilizing the dashboard, users can identify price variance by region and time, c
 
 ## Main Functions   
 - Main functions developed & utilized in this project are as follows.
-  - market_summary.py
+  - 1_market_overview.py
     - main() : for deployment & contains main codes for filtering data and visualization in each menu, tab and column.
     - load_data1() : for loading sales data from local directory
     - load_data2() : for loading rent data         
