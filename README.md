@@ -11,9 +11,11 @@ Utilizing the dashboard, users can identify price variance by region and time, c
 - Han DaeHee : https://github.com/roklp
 
 # Main development tools 
-- Programming Languages : Python (ver. 3.12)   
-- Web Framework : Streamlit (ver. 1.31.0)
-- Libraries : Pandas (ver. 2.1.4), Plotly (ver. 5.18.0)
+- Programming Languages : Python 3.12
+- Web Framework : Streamlit 1.31.0
+- Libraries
+  - Pandas==2.1.4
+  - Plotly==5.18.0
 
 # Main Library version
 - Please refer to requirements.txt
